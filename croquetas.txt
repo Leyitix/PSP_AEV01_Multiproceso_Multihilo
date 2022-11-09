@@ -1,0 +1,276 @@
+Croqueta numero 1 de jamon - completada al 10 %
+Croqueta numero 1 de jamon - completada al 20 %
+Croqueta numero 1 de jamon - completada al 30 %
+Croqueta numero 1 de jamon - completada al 40 %
+Croqueta numero 1 de jamon - completada al 50 %
+Croqueta numero 1 de jamon - completada al 60 %
+Croqueta numero 1 de jamon - completada al 70 %
+Croqueta numero 1 de jamon - completada al 80 %
+Croqueta numero 1 de jamon - completada al 90 %
+Croqueta numero 1 de jamon - completada al 100 %
+Croqueta numero 1 de jamon ha trerminado de fabricarse!! (COMPLETADAS: 1)
+Croqueta de jamon numero 1 terminada (quedan 17 croquetas)
+Croqueta numero 18 de queso - completada al 6 %
+Croqueta numero 18 de queso - completada al 13 %
+Croqueta numero 18 de queso - completada al 19 %
+Croqueta numero 18 de queso - completada al 25 %
+Croqueta numero 18 de queso - completada al 31 %
+Croqueta numero 18 de queso - completada al 38 %
+Croqueta numero 18 de queso - completada al 44 %
+Croqueta numero 18 de queso - completada al 50 %
+Croqueta numero 18 de queso - completada al 56 %
+Croqueta numero 18 de queso - completada al 63 %
+Croqueta numero 18 de queso - completada al 69 %
+Croqueta numero 18 de queso - completada al 75 %
+Croqueta numero 18 de queso - completada al 81 %
+Croqueta numero 18 de queso - completada al 88 %
+Croqueta numero 18 de queso - completada al 94 %
+Croqueta numero 18 de queso - completada al 100 %
+Croqueta numero 18 de queso ha trerminado de fabricarse!! (COMPLETADAS: 2)
+Croqueta de queso numero 18 terminada (quedan 16 croquetas)
+Croqueta numero 15 de queso - completada al 6 %
+Croqueta numero 15 de queso - completada al 13 %
+Croqueta numero 15 de queso - completada al 19 %
+Croqueta numero 15 de queso - completada al 25 %
+Croqueta numero 15 de queso - completada al 31 %
+Croqueta numero 15 de queso - completada al 38 %
+Croqueta numero 15 de queso - completada al 44 %
+Croqueta numero 15 de queso - completada al 50 %
+Croqueta numero 15 de queso - completada al 56 %
+Croqueta numero 15 de queso - completada al 63 %
+Croqueta numero 15 de queso - completada al 69 %
+Croqueta numero 15 de queso - completada al 75 %
+Croqueta numero 15 de queso - completada al 81 %
+Croqueta numero 15 de queso - completada al 88 %
+Croqueta numero 15 de queso - completada al 94 %
+Croqueta numero 15 de queso - completada al 100 %
+Croqueta numero 15 de queso ha trerminado de fabricarse!! (COMPLETADAS: 3)
+Croqueta de queso numero 15 terminada (quedan 15 croquetas)
+Croqueta numero 17 de queso - completada al 6 %
+Croqueta numero 17 de queso - completada al 13 %
+Croqueta numero 17 de queso - completada al 19 %
+Croqueta numero 17 de queso - completada al 25 %
+Croqueta numero 17 de queso - completada al 31 %
+Croqueta numero 17 de queso - completada al 38 %
+Croqueta numero 17 de queso - completada al 44 %
+Croqueta numero 17 de queso - completada al 50 %
+Croqueta numero 17 de queso - completada al 56 %
+Croqueta numero 17 de queso - completada al 63 %
+Croqueta numero 17 de queso - completada al 69 %
+Croqueta numero 17 de queso - completada al 75 %
+Croqueta numero 17 de queso - completada al 81 %
+Croqueta numero 17 de queso - completada al 88 %
+Croqueta numero 17 de queso - completada al 94 %
+Croqueta numero 17 de queso - completada al 100 %
+Croqueta numero 17 de queso ha trerminado de fabricarse!! (COMPLETADAS: 4)
+Croqueta de queso numero 17 terminada (quedan 14 croquetas)
+Croqueta numero 16 de queso - completada al 6 %
+Croqueta numero 16 de queso - completada al 13 %
+Croqueta numero 16 de queso - completada al 19 %
+Croqueta numero 16 de queso - completada al 25 %
+Croqueta numero 16 de queso - completada al 31 %
+Croqueta numero 16 de queso - completada al 38 %
+Croqueta numero 16 de queso - completada al 44 %
+Croqueta numero 16 de queso - completada al 50 %
+Croqueta numero 16 de queso - completada al 56 %
+Croqueta numero 16 de queso - completada al 63 %
+Croqueta numero 16 de queso - completada al 69 %
+Croqueta numero 16 de queso - completada al 75 %
+Croqueta numero 16 de queso - completada al 81 %
+Croqueta numero 16 de queso - completada al 88 %
+Croqueta numero 16 de queso - completada al 94 %
+Croqueta numero 16 de queso - completada al 100 %
+Croqueta numero 16 de queso ha trerminado de fabricarse!! (COMPLETADAS: 5)
+Croqueta de queso numero 16 terminada (quedan 13 croquetas)
+Croqueta numero 14 de queso - completada al 6 %
+Croqueta numero 14 de queso - completada al 13 %
+Croqueta numero 14 de queso - completada al 19 %
+Croqueta numero 14 de queso - completada al 25 %
+Croqueta numero 14 de queso - completada al 31 %
+Croqueta numero 14 de queso - completada al 38 %
+Croqueta numero 14 de queso - completada al 44 %
+Croqueta numero 14 de queso - completada al 50 %
+Croqueta numero 14 de queso - completada al 56 %
+Croqueta numero 14 de queso - completada al 63 %
+Croqueta numero 14 de queso - completada al 69 %
+Croqueta numero 14 de queso - completada al 75 %
+Croqueta numero 14 de queso - completada al 81 %
+Croqueta numero 14 de queso - completada al 88 %
+Croqueta numero 14 de queso - completada al 94 %
+Croqueta numero 14 de queso - completada al 100 %
+Croqueta numero 14 de queso ha trerminado de fabricarse!! (COMPLETADAS: 6)
+Croqueta de queso numero 14 terminada (quedan 12 croquetas)
+Croqueta numero 13 de queso - completada al 6 %
+Croqueta numero 13 de queso - completada al 13 %
+Croqueta numero 13 de queso - completada al 19 %
+Croqueta numero 13 de queso - completada al 25 %
+Croqueta numero 13 de queso - completada al 31 %
+Croqueta numero 13 de queso - completada al 38 %
+Croqueta numero 13 de queso - completada al 44 %
+Croqueta numero 13 de queso - completada al 50 %
+Croqueta numero 13 de queso - completada al 56 %
+Croqueta numero 13 de queso - completada al 63 %
+Croqueta numero 13 de queso - completada al 69 %
+Croqueta numero 13 de queso - completada al 75 %
+Croqueta numero 13 de queso - completada al 81 %
+Croqueta numero 13 de queso - completada al 88 %
+Croqueta numero 13 de queso - completada al 94 %
+Croqueta numero 13 de queso - completada al 100 %
+Croqueta numero 13 de queso ha trerminado de fabricarse!! (COMPLETADAS: 7)
+Croqueta de queso numero 13 terminada (quedan 11 croquetas)
+Croqueta numero 12 de bacalao - completada al 7 %
+Croqueta numero 12 de bacalao - completada al 14 %
+Croqueta numero 12 de bacalao - completada al 21 %
+Croqueta numero 12 de bacalao - completada al 29 %
+Croqueta numero 12 de bacalao - completada al 36 %
+Croqueta numero 12 de bacalao - completada al 43 %
+Croqueta numero 12 de bacalao - completada al 50 %
+Croqueta numero 12 de bacalao - completada al 57 %
+Croqueta numero 12 de bacalao - completada al 64 %
+Croqueta numero 12 de bacalao - completada al 71 %
+Croqueta numero 12 de bacalao - completada al 79 %
+Croqueta numero 12 de bacalao - completada al 86 %
+Croqueta numero 12 de bacalao - completada al 93 %
+Croqueta numero 12 de bacalao - completada al 100 %
+Croqueta numero 12 de bacalao ha trerminado de fabricarse!! (COMPLETADAS: 8)
+Croqueta de bacalao numero 12 terminada (quedan 10 croquetas)
+Croqueta numero 11 de bacalao - completada al 7 %
+Croqueta numero 11 de bacalao - completada al 14 %
+Croqueta numero 11 de bacalao - completada al 21 %
+Croqueta numero 11 de bacalao - completada al 29 %
+Croqueta numero 11 de bacalao - completada al 36 %
+Croqueta numero 11 de bacalao - completada al 43 %
+Croqueta numero 11 de bacalao - completada al 50 %
+Croqueta numero 11 de bacalao - completada al 57 %
+Croqueta numero 11 de bacalao - completada al 64 %
+Croqueta numero 11 de bacalao - completada al 71 %
+Croqueta numero 11 de bacalao - completada al 79 %
+Croqueta numero 11 de bacalao - completada al 86 %
+Croqueta numero 11 de bacalao - completada al 93 %
+Croqueta numero 11 de bacalao - completada al 100 %
+Croqueta numero 11 de bacalao ha trerminado de fabricarse!! (COMPLETADAS: 9)
+Croqueta de bacalao numero 11 terminada (quedan 9 croquetas)
+Croqueta numero 10 de bacalao - completada al 7 %
+Croqueta numero 10 de bacalao - completada al 14 %
+Croqueta numero 10 de bacalao - completada al 21 %
+Croqueta numero 10 de bacalao - completada al 29 %
+Croqueta numero 10 de bacalao - completada al 36 %
+Croqueta numero 10 de bacalao - completada al 43 %
+Croqueta numero 10 de bacalao - completada al 50 %
+Croqueta numero 10 de bacalao - completada al 57 %
+Croqueta numero 10 de bacalao - completada al 64 %
+Croqueta numero 10 de bacalao - completada al 71 %
+Croqueta numero 10 de bacalao - completada al 79 %
+Croqueta numero 10 de bacalao - completada al 86 %
+Croqueta numero 10 de bacalao - completada al 93 %
+Croqueta numero 10 de bacalao - completada al 100 %
+Croqueta numero 10 de bacalao ha trerminado de fabricarse!! (COMPLETADAS: 10)
+Croqueta de bacalao numero 10 terminada (quedan 8 croquetas)
+Croqueta numero 9 de bacalao - completada al 7 %
+Croqueta numero 9 de bacalao - completada al 14 %
+Croqueta numero 9 de bacalao - completada al 21 %
+Croqueta numero 9 de bacalao - completada al 29 %
+Croqueta numero 9 de bacalao - completada al 36 %
+Croqueta numero 9 de bacalao - completada al 43 %
+Croqueta numero 9 de bacalao - completada al 50 %
+Croqueta numero 9 de bacalao - completada al 57 %
+Croqueta numero 9 de bacalao - completada al 64 %
+Croqueta numero 9 de bacalao - completada al 71 %
+Croqueta numero 9 de bacalao - completada al 79 %
+Croqueta numero 9 de bacalao - completada al 86 %
+Croqueta numero 9 de bacalao - completada al 93 %
+Croqueta numero 9 de bacalao - completada al 100 %
+Croqueta numero 9 de bacalao ha trerminado de fabricarse!! (COMPLETADAS: 11)
+Croqueta de bacalao numero 9 terminada (quedan 7 croquetas)
+Croqueta numero 8 de bacalao - completada al 7 %
+Croqueta numero 8 de bacalao - completada al 14 %
+Croqueta numero 8 de bacalao - completada al 21 %
+Croqueta numero 8 de bacalao - completada al 29 %
+Croqueta numero 8 de bacalao - completada al 36 %
+Croqueta numero 8 de bacalao - completada al 43 %
+Croqueta numero 8 de bacalao - completada al 50 %
+Croqueta numero 8 de bacalao - completada al 57 %
+Croqueta numero 8 de bacalao - completada al 64 %
+Croqueta numero 8 de bacalao - completada al 71 %
+Croqueta numero 8 de bacalao - completada al 79 %
+Croqueta numero 8 de bacalao - completada al 86 %
+Croqueta numero 8 de bacalao - completada al 93 %
+Croqueta numero 8 de bacalao - completada al 100 %
+Croqueta numero 8 de bacalao ha trerminado de fabricarse!! (COMPLETADAS: 12)
+Croqueta de bacalao numero 8 terminada (quedan 6 croquetas)
+Croqueta numero 7 de bacalao - completada al 7 %
+Croqueta numero 7 de bacalao - completada al 14 %
+Croqueta numero 7 de bacalao - completada al 21 %
+Croqueta numero 7 de bacalao - completada al 29 %
+Croqueta numero 7 de bacalao - completada al 36 %
+Croqueta numero 7 de bacalao - completada al 43 %
+Croqueta numero 7 de bacalao - completada al 50 %
+Croqueta numero 7 de bacalao - completada al 57 %
+Croqueta numero 7 de bacalao - completada al 64 %
+Croqueta numero 7 de bacalao - completada al 71 %
+Croqueta numero 7 de bacalao - completada al 79 %
+Croqueta numero 7 de bacalao - completada al 86 %
+Croqueta numero 7 de bacalao - completada al 93 %
+Croqueta numero 7 de bacalao - completada al 100 %
+Croqueta numero 7 de bacalao ha trerminado de fabricarse!! (COMPLETADAS: 13)
+Croqueta de bacalao numero 7 terminada (quedan 5 croquetas)
+Croqueta numero 6 de jamon - completada al 10 %
+Croqueta numero 6 de jamon - completada al 20 %
+Croqueta numero 6 de jamon - completada al 30 %
+Croqueta numero 6 de jamon - completada al 40 %
+Croqueta numero 6 de jamon - completada al 50 %
+Croqueta numero 6 de jamon - completada al 60 %
+Croqueta numero 6 de jamon - completada al 70 %
+Croqueta numero 6 de jamon - completada al 80 %
+Croqueta numero 6 de jamon - completada al 90 %
+Croqueta numero 6 de jamon - completada al 100 %
+Croqueta numero 6 de jamon ha trerminado de fabricarse!! (COMPLETADAS: 14)
+Croqueta de jamon numero 6 terminada (quedan 4 croquetas)
+Croqueta numero 5 de jamon - completada al 10 %
+Croqueta numero 5 de jamon - completada al 20 %
+Croqueta numero 5 de jamon - completada al 30 %
+Croqueta numero 5 de jamon - completada al 40 %
+Croqueta numero 5 de jamon - completada al 50 %
+Croqueta numero 5 de jamon - completada al 60 %
+Croqueta numero 5 de jamon - completada al 70 %
+Croqueta numero 5 de jamon - completada al 80 %
+Croqueta numero 5 de jamon - completada al 90 %
+Croqueta numero 5 de jamon - completada al 100 %
+Croqueta numero 5 de jamon ha trerminado de fabricarse!! (COMPLETADAS: 15)
+Croqueta de jamon numero 5 terminada (quedan 3 croquetas)
+Croqueta numero 4 de jamon - completada al 10 %
+Croqueta numero 4 de jamon - completada al 20 %
+Croqueta numero 4 de jamon - completada al 30 %
+Croqueta numero 4 de jamon - completada al 40 %
+Croqueta numero 4 de jamon - completada al 50 %
+Croqueta numero 4 de jamon - completada al 60 %
+Croqueta numero 4 de jamon - completada al 70 %
+Croqueta numero 4 de jamon - completada al 80 %
+Croqueta numero 4 de jamon - completada al 90 %
+Croqueta numero 4 de jamon - completada al 100 %
+Croqueta numero 4 de jamon ha trerminado de fabricarse!! (COMPLETADAS: 16)
+Croqueta de jamon numero 4 terminada (quedan 2 croquetas)
+Croqueta numero 3 de jamon - completada al 10 %
+Croqueta numero 3 de jamon - completada al 20 %
+Croqueta numero 3 de jamon - completada al 30 %
+Croqueta numero 3 de jamon - completada al 40 %
+Croqueta numero 3 de jamon - completada al 50 %
+Croqueta numero 3 de jamon - completada al 60 %
+Croqueta numero 3 de jamon - completada al 70 %
+Croqueta numero 3 de jamon - completada al 80 %
+Croqueta numero 3 de jamon - completada al 90 %
+Croqueta numero 3 de jamon - completada al 100 %
+Croqueta numero 3 de jamon ha trerminado de fabricarse!! (COMPLETADAS: 17)
+Croqueta de jamon numero 3 terminada (quedan 1 croquetas)
+Croqueta numero 2 de jamon - completada al 10 %
+Croqueta numero 2 de jamon - completada al 20 %
+Croqueta numero 2 de jamon - completada al 30 %
+Croqueta numero 2 de jamon - completada al 40 %
+Croqueta numero 2 de jamon - completada al 50 %
+Croqueta numero 2 de jamon - completada al 60 %
+Croqueta numero 2 de jamon - completada al 70 %
+Croqueta numero 2 de jamon - completada al 80 %
+Croqueta numero 2 de jamon - completada al 90 %
+Croqueta numero 2 de jamon - completada al 100 %
+Croqueta numero 2 de jamon ha trerminado de fabricarse!! (COMPLETADAS: 18)
+Croqueta de jamon numero 2 terminada (quedan 0 croquetas)
